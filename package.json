@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "critic-markup",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "This plugin allows for the markup language *Critic Markup* to show additions, deletions and comments.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
