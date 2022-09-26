@@ -8,3 +8,4 @@ export const commentRegExp = / (?:({>>)([^<]*)(<<)})/g;
 // markup, comment, markup
 export const highlightRegExp = /(?:({==)([^=]*)(==}))/g;
 // marktup, highlight, markup
+
